@@ -14,6 +14,7 @@
 
     <div class="container p-2  m-3 mx-auto">
         <a href="{{ route('home')}}" class="btn btn-primary btn-lg p-2" >Refresh Page</a>
+        <h1 class="text-center display-3">Your Persional Diary</h1>
         <div class="row">
             <form action="" >
                 {{-- @csrf --}}
